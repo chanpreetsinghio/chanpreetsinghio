@@ -1,0 +1,74 @@
+<img align="right" alt="GIF"  width="370px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
+
+
+### HEY!! I AM CHANPREET SINGH
+   <a href="https://www.linkedin.com/in/chanpreetsinghio/">
+  <img align="left" alt="Jeevan's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+</br>
+
+- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
+- I ❤️ to work on Full Stack Web Development as well !!
+- Opensource Enthusiast
+- Trying hands on Data science
+- Looking for Opportunities
+
+## I WORK ON 
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖++</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Kotlin</span><br><br><br>
+        <img height="64px" src="https://symbols.getvecta.com/stencil_86/44_kotlin-icon.70e2057aa7.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Sublime</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Github</span><br><br><br>
+        <img height="64px" src="https://image.flaticon.com/icons/svg/25/25231.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Android Studio</span><br><br><br>
+        <img height="64px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
+      </td>
+       <td width="25%" align="center">
+        <span>Jupyter</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=chanpreetsinghio&show_icons=true&hide_border=true)
+
+## Show ❤️ By Starring My Repos!
+
+## Currently Working on
+- Competitive Programming Skills
+- Developing Android & Web Dev. Projects
+- Data Science & Machine Learning
+## My Organization
+- Do have a glimse on projects in which i have contributed
+- Click on the image below and fascinate yourself with our work!!
+<a href="https://github.com/Jeevan-kumar-Raj">
+  <img align="left" alt="Jeevan's Organization width="1px" src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
+</a>
