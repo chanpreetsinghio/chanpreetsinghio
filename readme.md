@@ -9,7 +9,6 @@
 </br>
 
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
-- I ❤️ to work on Full Stack Web Development as well !!
 - Opensource Enthusiast
 - Trying hands on Data science
 - Looking for Opportunities
@@ -69,6 +68,6 @@
 ## My Organization
 - Do have a glimse on projects in which i have contributed
 - Click on the image below and fascinate yourself with our work!!
-<a href="https://github.com/Jeevan-kumar-Raj">
+<a href="https://github.com/chanpreetsinghio">
   <img align="left" alt="Jeevan's Organization width="1px" src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
 </a>
