@@ -1,6 +1,6 @@
 <img align="right" alt="GIF"  width="370px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
 
-# Hi there 👋 I'm Chanpreet!
+# [Hi there 👋 I'm Chanpreet!](https://chanpreetsingh.com)
 
 I’m a Full Stack Developer living in India and experienced in building responsive, accessible websites and web applications using NodeJs, Express, MySQL/MongoDb/PostgreSQL and React. I’m looking to expand my portfolio and collaborate on something new.
 
