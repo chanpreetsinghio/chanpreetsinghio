@@ -66,8 +66,8 @@ I’m a Full Stack Developer living in India and experienced in building respons
 
 ## My Organization
 
-- Do have a glimse on projects in which i have contributed
-- Click on the image below and fascinate yourself with our work!!
-  <a href="https://github.com/chanpreetsinghio">
-  <img align="left" alt="Jeevan's Organization width="1px" src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
-  </a>
+- Do have a glimse on projects in which I have worked
+- Click on the image below and fascinate yourself!!
+<a href="https://github.com/chanpreetsinghio">
+  <img align="left" alt="Chan's Organization width="1px" src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
+</a>
