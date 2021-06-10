@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Chanpreet!
 
-I’m a Full Stack Developer living in India and experienced in building responsive, accessible websites and web applications using NodeJs, JavaScript, SQL and React. I’m looking to expand my portfolio and collaborate on something new.
+I’m a Full Stack Developer living in India and experienced in building responsive, accessible websites and web applications using NodeJs, Express, MySQL/MongoDb/PostgreSQL and React. I’m looking to expand my portfolio and collaborate on something new.
 
 </br>
 
