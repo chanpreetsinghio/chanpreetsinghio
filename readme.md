@@ -10,29 +10,29 @@ I’m a Full Stack Developer living in India and experienced in building respons
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/chanpreetsinghio/chanpreetsinghio/master/assests/git-original.svg" height="auto" width="40">
 </p>
 
 ### :technologist: I'm currently working on:
@@ -54,7 +54,7 @@ I’m a Full Stack Developer living in India and experienced in building respons
 ### Outside of coding I enjoy:
 
 - Playing video games :video_game:
-- Bhangra :dance:
+- Bhangra :man_dancing:
 - Bowling :bowling:
 - Sci-fi movies/tv shows :vulcan_salute:
 
