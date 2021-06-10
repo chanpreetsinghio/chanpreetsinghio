@@ -1,7 +1,7 @@
 <img align="right" alt="GIF"  width="370px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
 
-
 ### HEY!! I AM CHANPREET SINGH
+
    <a href="https://www.linkedin.com/in/chanpreetsinghio/">
   <img align="left" alt="Jeevan's LinkdeIN" width="22px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,61 +13,76 @@
 - Trying hands on Data science
 - Looking for Opportunities
 
-## I WORK ON 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Kotlin</span><br><br><br>
-        <img height="64px" src="https://symbols.getvecta.com/stencil_86/44_kotlin-icon.70e2057aa7.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Sublime</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Github</span><br><br><br>
-        <img height="64px" src="https://image.flaticon.com/icons/svg/25/25231.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Android Studio</span><br><br><br>
-        <img height="64px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png">
-      </td>
-       <td width="25%" align="center">
-        <span>Jupyter</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Skill set:
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+<p align="left">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=chanpreetsinghio&show_icons=true&hide_border=true)
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+</p>
+
+### :technologist: I'm currently working on:
+
+- My React, Express, and Node skills
+- Another MERN Stack App
+
+### :nerd_face: I'm currently learning:
+
+- TypeScript
+
+### :thinking: I want to learn:
+
+- Next.js
+- GraphQL
+- Contentful
+
+### Outside of coding I enjoy:
+
+- Playing video games :video_game:
+- Skateboarding :skateboard:
+- Bowling :bowling:
+- Sci-fi movies/tv shows :vulcan_salute:
+
+<!-- # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=chanpreetsinghio&show_icons=true&hide_border=true) -->
 
 ## Show ❤️ By Starring My Repos!
 
 ## Currently Working on
+
 - Competitive Programming Skills
 - Developing Android & Web Dev. Projects
 - Data Science & Machine Learning
+
 ## My Organization
+
 - Do have a glimse on projects in which i have contributed
 - Click on the image below and fascinate yourself with our work!!
-<a href="https://github.com/chanpreetsinghio">
+  <a href="https://github.com/chanpreetsinghio">
   <img align="left" alt="Jeevan's Organization width="1px" src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
-</a>
+  </a>
